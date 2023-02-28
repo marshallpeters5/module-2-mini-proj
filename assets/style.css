@@ -1,0 +1,15 @@
+:root {
+    --rust: #d12d0d;
+    --charcoal: #1c1311;
+    --silver: #d2d4d6;
+}
+
+header {
+    position: relative;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+header h1 {
+    font-size: 200%;
+}
